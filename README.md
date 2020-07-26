@@ -1,16 +1,20 @@
-# todo_list
+# Depencies
 
-A new Flutter project. Created by Slidy
+## Install
 
-## Getting Started
+- [Dart](https://dart.dev/get-dart)
+- [Slidy](https://github.com/Flutterando/slidy)
+- [Flutter](https://flutter.dev/docs/get-started/install)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Run first time
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Run this command to slidy generate ``the`` **.g.dart** files.
+```bash 
+slidy run mobx_build
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run the flutter.
+```
+flutter run
+``` 
